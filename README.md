@@ -155,7 +155,7 @@ maka hasil dari kode program di atas akan seperti ini :
 
 # Flowchart
 
-
+![gambar 12](screenshot/ss12.png)
 
 **Sekian Tugas Pada Kali Ini.**
 
